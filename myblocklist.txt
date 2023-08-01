@@ -1,6 +1,6 @@
 # myblocklist
 #
-# Homepage: https://github.com/yous/YousList
+# Homepage: https://github.com/DevLn737/MyList
 
 127.0.0.1 localhost
 ::1 localhost
