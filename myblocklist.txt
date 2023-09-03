@@ -11,3 +11,4 @@
 0.0.0.0 direct.yandex.ru
 0.0.0.0 an.yandex.ru
 0.0.0.0 r.mail.ru
+0.0.0.0 trk.mail.ru
